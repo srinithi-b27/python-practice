@@ -1,8 +1,8 @@
 # Python Practice
 
-Learning Python before joining CIT AI&DS.
+Learning Python.
 
-Day 5:
+Day 1-5:
 - Variables
 - Data Types
 - User Input
