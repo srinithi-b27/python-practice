@@ -1,0 +1,7 @@
+x=int(input("Enter first number:"))
+y=int(input("Enter second number:")) 
+print("\n---mini calculator---".upper())
+print(f'addition = {x+y}') 
+print(f'subtraction = {x-y}') 
+print(f'multiplication = {x*y}') 
+print(f'division = {x/y}')
